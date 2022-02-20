@@ -101,9 +101,9 @@
 
 [](https://youtu.be/s3t4NxP-pFk?t=4427) Literature resources
 
-# Panel discussion (extra) feat. [Allison Duettmann](https://twitter.com/allisondman), [Foresight Institute](https://twitter.com/foresightinst)
+# Panel discussion (extra) 
 
-> Attempt to define an objective function of science and free conversation spanning the capital in science and the methodological structure of science
+> Attempt to define an objective function of science and free conversation spanning the capital in science and the methodological structure of science feat. [Allison Duettmann](https://twitter.com/allisondman), [Foresight Institute](https://twitter.com/foresightinst)
 
 [1:29:39](https://youtu.be/s3t4NxP-pFk?t=5376) What is the *objective function of science*?
 
