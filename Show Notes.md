@@ -63,7 +63,22 @@
 
 [0:44:26](https://youtu.be/s3t4NxP-pFk?t=2666) The DeSci future that we want
 
-# Panel discussion
+# 
 
-[1:29:39](https://youtu.be/s3t4NxP-pFk?t=5376) What is the obejctive function of science?
+# 
 
+# Panel discussion (extra)
+
+[1:29:39](https://youtu.be/s3t4NxP-pFk?t=5376) What is the objective function of science?
+
+[1:37:10](https://youtu.be/s3t4NxP-pFk?t=5827) How do we consider other forms of research, non-western thoughts alternative to science?
+
+[1:42:12](https://youtu.be/s3t4NxP-pFk?t=6132) On the incompleteness of science as the system 
+
+[1:45:33](https://youtu.be/s3t4NxP-pFk?t=6331) Models of artifical intelligence & algorithmic information theory applied to reduce complexity
+
+[1:47:94](https://youtu.be/s3t4NxP-pFk?t=6424) Intersaction of AI & blockchain
+
+[1:48:04](https://youtu.be/s3t4NxP-pFk?t=6484) Science as the process, the "software running on humans"
+
+[1:51:41](https://youtu.be/s3t4NxP-pFk?t=6701) Awareness of structures to fund science: which model for which field
