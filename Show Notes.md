@@ -101,7 +101,7 @@
 
 [](https://youtu.be/s3t4NxP-pFk?t=4427) Literature resources
 
-# Panel discussion (extra)
+# Panel discussion (extra) feat. [Allison Duettmann](https://twitter.com/allisondman), [Foresight Institute](https://twitter.com/foresightinst)
 
 > Attempt to define an objective function of science and free conversation spanning the capital in science and the methodological structure of science
 
